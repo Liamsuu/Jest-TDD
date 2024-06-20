@@ -1,0 +1,19 @@
+{
+  "name": "jest-tdd",
+  "version": "1.0.0",
+  "description": "Start looking at using TDD within my projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "@types/jest": "^29.5.12",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  },
+  "type": "module"
+}
